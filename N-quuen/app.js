@@ -1,5 +1,4 @@
 'use strict'
-
 const numberbox = document.getElementById("numberbox");
 const slider = document.getElementById("slider");
 const progressBar = document.getElementById("progress-bar")
